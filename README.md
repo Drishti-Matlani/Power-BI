@@ -1,1 +1,1 @@
-# Power-BI
+# Insight Analytics(Power BI)
